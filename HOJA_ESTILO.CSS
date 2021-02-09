@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow: 1px 1px yellow;
+}
+fieldset{
+    background-color: turquoise;
+    border-style: hidden;
+    border-radius: 5px;
+    display: block;    
+}
+legend{
+    background-color: red;
+    color: white;
+}
+input[type=text]{
+    background-color: yellow;
+    border-radius: 4px;
+    
+}
+
+button[type=button]{
+    background-color: pink;
+    border-width: thin;
+    border-radius: 5px;
+    width: 95px;
+    height: 40px;
+}
